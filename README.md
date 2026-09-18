@@ -167,7 +167,7 @@ javac -version
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Student-Record-Management-System.git
+git clone https://github.com/lalan25bai11005/Student-Record-Management-System.git
 ```
 
 Move into the project directory:
